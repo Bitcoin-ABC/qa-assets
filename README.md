@@ -1,2 +1,2 @@
 # qa-assets
-Bitcoin Core related blobs used for quality assurance
+Bitcoin ABC related blobs used for quality assurance
